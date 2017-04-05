@@ -1,0 +1,1 @@
+- [PCA - Compact Trick](http://math.stackexchange.com/questions/409239/compute-pca-with-this-useful-trick)
